@@ -222,3 +222,17 @@ color:#7A7A7A;
 line-height:1.5;
 margin-top:0px;
 }
+
+.logoimgbox{width:20%; height: auto; margin-top:2%;}
+#footer{width: 100%;
+height: auto;
+float: left;
+color:#ffffff;
+padding-top:1%;
+margin-top: 3%;
+background-image: linear-gradient(bottom, rgb(7,101,217) 3%, rgb(102,171,255) 95%);
+background-image: -o-linear-gradient(bottom, rgb(7,101,217) 3%, rgb(102,171,255) 95%);
+background-image: -moz-linear-gradient(bottom, rgb(7,101,217) 3%, rgb(102,171,255) 95%);
+background-image: -webkit-linear-gradient(bottom, rgb(7,101,217) 3%, rgb(102,171,255) 95%);
+background-image: -ms-linear-gradient(bottom, rgb(7,101,217) 3%, rgb(102,171,255) 95%);
+}
