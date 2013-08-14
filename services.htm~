@@ -51,7 +51,7 @@
 </head>
 <body>
 <div style="height:auto; width:100%; float: left; text-align: center;">
-					<a href="index.html"><img src="images/logo.png" class="logoimgbox"></a>
+					<a href="index.htm"><img src="images/logo.png" class="logoimgbox"></a>
 			</div>
 <div id="wrapper">
 	<div id="scroller">

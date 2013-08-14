@@ -51,7 +51,7 @@
 </head>
 <body>
 <div style="height:auto; width:100%; float: left; text-align: center;">
-					<a href="index.html"><img src="images/logo.png" class="logoimgbox"></a>
+					<a href="index.htm"><img src="images/logo.png" class="logoimgbox"></a>
 			</div>
 <div id="wrapper">
 	<div id="scroller">
@@ -59,71 +59,52 @@
 			<div class="photobox">
 					
 						
-						<a href="services/s1.jpg"><img src="services/services1.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l1.jpg"><img src="lodging/lodging1.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+					
+                                                    
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="lodging/l2.jpg"><img src="lodging/lodging2.jpg" style="width:80%; height: auto; "></a>
 							
 					
                         </div>
 			<div class="photobox">
 					
 						
-						<a href="services/s2.jpg"><img src="services/services2.jpg" style="width:80%; height: auto; "></a>
-					
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s3.jpg"><img src="services/services3.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l3.jpg"><img src="lodging/lodging3.jpg" style="width:80%; height: auto; "></a>
 							
 					
                         </div>
 			<div class="photobox">
 					
 						
-						<a href="services/s4.jpg"><img src="services/services4.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l4.jpg"><img src="lodging/lodging4.jpg" style="width:80%; height: auto; "></a>
 							
 					
                         </div>
 			<div class="photobox">
 					
 						
-						<a href="services/s5.jpg"><img src="services/services5.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l5.jpg"><img src="lodging/lodging5.jpg" style="width:80%; height: auto; "></a>
 							
 					
                         </div>
 			<div class="photobox">
 					
 						
-						<a href="services/s6.jpg"><img src="services/services6.jpg" style="width:80%; height: auto; "></a>
-							
-					
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s7.jpg"><img src="services/services7.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l6.jpg"><img src="lodging/lodging6.jpg" style="width:80%; height: auto; "></a>
 							
 					
                         </div>
 			<div class="photobox">
 					
 						
-						<a href="services/s8.jpg"><img src="services/services8.jpg" style="width:80%; height: auto; "></a>
-							
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s9.jpg"><img src="services/services9.jpg" style="width:80%; height: auto; "></a>
-							
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s10.jpg"><img src="services/services10.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l7.jpg"><img src="lodging/lodging7.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
@@ -131,14 +112,28 @@
 			<div class="photobox">
 					
 						
-						<a href="services/s11.jpg"><img src="services/services11.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l8.jpg"><img src="lodging/lodging8.jpg" style="width:80%; height: auto; "></a>
 							
 					
                         </div>
 			<div class="photobox">
 					
 						
-						<a href="services/s12.jpg"><img src="services/services12.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l9.jpg"><img src="lodging/lodging9.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="lodging/l10.jpg"><img src="lodging/lodging10.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="lodging/l11.jpg"><img src="lodging/lodging11.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
@@ -146,15 +141,7 @@
 			<div class="photobox">
 					
 						
-						<a href="services/s13.jpg"><img src="services/services13.jpg" style="width:80%; height: auto; "></a>
-							
-					
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s14.jpg"><img src="services/services14.jpg" style="width:80%; height: auto; "></a>
+						<a href="lodging/l12.jpg"><img src="lodging/lodging12.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
@@ -163,20 +150,12 @@
 			<div class="photobox">
 					
 						
-						<a href="services/s15.jpg"><img src="services/services15.jpg" style="width:80%; height: auto; "></a>
-							
-					
+						<a href="lodging/l13.jpg"><img src="lodging/lodging13.jpg" style="width:80%; height: auto; "></a>
 					
                         </div>
 			
-			<div class="photobox">
-					
-						
-						<a href="services/s16.jpg"><img src="services/services16.jpg" style="width:80%; height: auto; "></a>
-							
-					
-					
-                        </div>
+			
+			
 			
 		</div>
 	</div>
@@ -184,7 +163,7 @@
 
 
 <div id="footer">
-    <p class="text" style="text-align: center; color:#ffffff;">&copy;Copyright All Rights Reserved</p>
+    <p class="text" style="text-align: center; color:#ffffff;">Copyright All Rights Reserved</p>
 </div>  
 </body>
 </html>

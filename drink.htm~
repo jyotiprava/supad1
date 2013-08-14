@@ -51,7 +51,7 @@
 </head>
 <body>
 <div style="height:auto; width:100%; float: left; text-align: center;">
-					<a href="index.html"><img src="images/logo.png" class="logoimgbox"></a>
+					<a href="index.htm"><img src="images/logo.png" class="logoimgbox"></a>
 			</div>
 <div id="wrapper">
 	<div id="scroller">
@@ -59,7 +59,91 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t1.jpg"><img src="Transportation/Transportation1.jpg" style="width:80%; height: auto; "></a>
+						<a href="drinks/d1.jpg"><img src="drinks/drink1.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                                                    
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d2.jpg"><img src="drinks/drink2.jpg" style="width:80%; height: auto; "></a>																	
+                                                    
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d3.jpg"><img src="drinks/drink3.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d4.png"><img src="drinks/drink4.png" style="width:80%; height: auto; "></a>
+							
+							
+					
+                                                    
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d5.jpg"><img src="drinks/drink5.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d6.jpg"><img src="drinks/drink6.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d7.jpg"><img src="drinks/drink7.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d8.jpg"><img src="drinks/drink8.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d9.jpg"><img src="drinks/drink9.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d10.jpg"><img src="drinks/drink10.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d11.jpg"><img src="drinks/drink11.jpg" style="width:80%; height: auto; "></a>
+					
+					
+                        </div>
+			<div class="photobox">
+					
+						
+						<a href="drinks/d12.jpg"><img src="drinks/drink12.jpg" style="width:80%; height: auto; "></a>
+					
 							
 					
                         </div>
@@ -67,7 +151,8 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t2.jpg"><img src="Transportation/Transportation2.jpg" style="width:80%; height: auto; "></a>
+						<a href="drinks/d13.jpg"><img src="drinks/drink13.jpg" style="width:80%; height: auto; "></a>
+					
 							
 					
                         </div>
@@ -75,16 +160,8 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t3.jpg"><img src="Transportation/Transportation3.jpg" style="width:80%; height: auto; "></a>
-							
+						<a href="drinks/d14.jpg"><img src="drinks/drink14.jpg" style="width:80%; height: auto; "></a>
 					
-                        </div>
-			
-			
-			<div class="photobox">
-					
-						
-						<a href="Transportation/t4.jpg"><img src="Transportation/Transportation4.jpg" style="width:80%; height: auto; "></a>
 							
 					
                         </div>
@@ -93,7 +170,8 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t5.jpg"><img src="Transportation/Transportation5.jpg" style="width:80%; height: auto; "></a>
+						<a href="drinks/d15.jpg"><img src="drinks/drink15.jpg" style="width:80%; height: auto; "></a>
+					
 							
 					
                         </div>
@@ -102,9 +180,9 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t6.jpg"><img src="Transportation/Transportation6.jpg" style="width:80%; height: auto; "></a>
-							
+						<a href="drinks/d16.jpg"><img src="drinks/drink16.jpg" style="width:80%; height: auto; "></a>
 					
+							
 					
                         </div>
 			
@@ -112,18 +190,9 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t7.jpg"><img src="Transportation/Transportation7.jpg" style="width:80%; height: auto; "></a>
+						<a href="drinks/d17.jpg"><img src="drinks/drink17.jpg" style="width:80%; height: auto; "></a>
+					
 							
-					
-					
-                        </div>
-			
-			<div class="photobox">
-					
-						
-						<a href="Transportation/t8.jpg"><img src="Transportation/Transportation8.jpg" style="width:80%; height: auto; "></a>
-							
-					
 					
                         </div>
 			
@@ -131,20 +200,9 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t9.jpg"><img src="Transportation/Transportation9.jpg" style="width:80%; height: auto; "></a>
+						<a href="drinks/d18.jpg"><img src="drinks/drink18.jpg" style="width:80%; height: auto; "></a>
+					
 							
-					
-					
-                        </div>
-			
-			
-			
-			<div class="photobox">
-					
-						
-						<a href="Transportation/t10.jpg"><img src="Transportation/Transportation10.jpg" style="width:80%; height: auto; "></a>
-							
-					
 					
                         </div>
 			
@@ -152,20 +210,9 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t11.jpg"><img src="Transportation/Transportation11.jpg" style="width:80%; height: auto; "></a>
+						<a href="drinks/d19.jpg"><img src="drinks/drink19.jpg" style="width:80%; height: auto; "></a>
+					
 							
-					
-					
-                        </div>
-			
-			
-			
-			<div class="photobox">
-					
-						
-						<a href="Transportation/t12.jpg"><img src="Transportation/Transportation12.jpg" style="width:80%; height: auto; "></a>
-							
-					
 					
                         </div>
 			
@@ -173,9 +220,19 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t13.jpg"><img src="Transportation/Transportation13.jpg" style="width:80%; height: auto; "></a>
+						<a href="drinks/d20.jpg"><img src="drinks/drink20.jpg" style="width:80%; height: auto; "></a>
+					
 							
 					
+                        </div>
+
+			
+			<div class="photobox">
+					
+						
+						<a href="drinks/d21.jpg"><img src="drinks/drink21.jpg" style="width:80%; height: auto; "></a>
+					
+							
 					
                         </div>
 			
@@ -183,41 +240,11 @@
 			<div class="photobox">
 					
 						
-						<a href="Transportation/t14.jpg"><img src="Transportation/Transportation14.jpg" style="width:80%; height: auto; "></a>
+						<a href="drinks/d22.jpg"><img src="drinks/drink22.jpg" style="width:80%; height: auto; "></a>
+					
 							
 					
-					
                         </div>
-			
-			<div class="photobox">
-					
-						
-						<a href="Transportation/t15.jpg"><img src="Transportation/Transportation15.jpg" style="width:80%; height: auto; "></a>
-							
-					
-					
-                        </div>
-			
-			
-			<div class="photobox">
-					
-						
-						<a href="Transportation/t16.jpg"><img src="Transportation/Transportation16.jpg" style="width:80%; height: auto; "></a>
-							
-					
-					
-                        </div>
-			
-			
-			<div class="photobox">
-					
-						
-						<a href="Transportation/t17.jpg"><img src="Transportation/Transportation17.jpg" style="width:80%; height: auto; "></a>
-							
-					
-					
-                        </div>
-			
 		</div>
 	</div>
 </div>

@@ -51,7 +51,7 @@
 </head>
 <body>
 <div style="height:auto; width:100%; float: left; text-align: center;">
-					<a href="index.html"><img src="images/logo.png" class="logoimgbox"></a>
+					<a href="index.htm"><img src="images/logo.png" class="logoimgbox"></a>
 			</div>
 <div id="wrapper">
 	<div id="scroller">
@@ -59,102 +59,124 @@
 			<div class="photobox">
 					
 						
-						<a href="services/s1.jpg"><img src="services/services1.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p1.jpg"><img src="places/places1.jpg" style="width:80%; height: auto; "></a>
 							
 					
+					
+					
+					
+                                                    
                         </div>
+			
 			<div class="photobox">
 					
 						
-						<a href="services/s2.jpg"><img src="services/services2.jpg" style="width:80%; height: auto; "></a>
-					
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s3.jpg"><img src="services/services3.jpg" style="width:80%; height: auto; "></a>
-							
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s4.jpg"><img src="services/services4.jpg" style="width:80%; height: auto; "></a>
-							
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s5.jpg"><img src="services/services5.jpg" style="width:80%; height: auto; "></a>
-							
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s6.jpg"><img src="services/services6.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p2.jpg"><img src="places/places2.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
                         </div>
+			
+			
 			<div class="photobox">
 					
 						
-						<a href="services/s7.jpg"><img src="services/services7.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p3.jpg"><img src="places/places3.jpg" style="width:80%; height: auto; "></a>
 							
 					
                         </div>
+			
+			
 			<div class="photobox">
 					
 						
-						<a href="services/s8.jpg"><img src="services/services8.jpg" style="width:80%; height: auto; "></a>
-							
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s9.jpg"><img src="services/services9.jpg" style="width:80%; height: auto; "></a>
-							
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s10.jpg"><img src="services/services10.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p4.jpg"><img src="places/places4.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
                         </div>
+			
+			
 			<div class="photobox">
 					
 						
-						<a href="services/s11.jpg"><img src="services/services11.jpg" style="width:80%; height: auto; "></a>
-							
-					
-                        </div>
-			<div class="photobox">
-					
-						
-						<a href="services/s12.jpg"><img src="services/services12.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p5.jpg"><img src="places/places5.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
                         </div>
+			
+			
 			<div class="photobox">
 					
 						
-						<a href="services/s13.jpg"><img src="services/services13.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p6.jpg"><img src="places/places6.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p7.jpg"><img src="places/places7.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
                         </div>
+			
+			
 			<div class="photobox">
 					
 						
-						<a href="services/s14.jpg"><img src="services/services14.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p8.jpg"><img src="places/places8.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p9.jpg"><img src="places/places9.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p10.jpg"><img src="places/places10.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p11.jpg"><img src="places/places11.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p12.jpg"><img src="places/places12.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p13.jpg"><img src="places/places13.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
@@ -163,21 +185,68 @@
 			<div class="photobox">
 					
 						
-						<a href="services/s15.jpg"><img src="services/services15.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p14.jpg"><img src="places/places14.jpg" style="width:80%; height: auto; "></a>
 							
 					
-					
-                        </div>
+			</div>
 			
 			<div class="photobox">
 					
 						
-						<a href="services/s16.jpg"><img src="services/services16.jpg" style="width:80%; height: auto; "></a>
+						<a href="places/p15.jpg"><img src="places/places15.jpg" style="width:80%; height: auto; "></a>
 							
 					
 					
                         </div>
 			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p16.jpg"><img src="places/places16.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p17.jpg"><img src="places/places17.jpg" style="width:80%; height: auto; "></a>
+							
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p18.jpg"><img src="places/places18.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p19.jpg"><img src="places/places19.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
+			
+			
+			<div class="photobox">
+					
+						
+						<a href="places/p20.jpg"><img src="places/places20.jpg" style="width:80%; height: auto; "></a>
+							
+					
+					
+                        </div>
 		</div>
 	</div>
 </div>
